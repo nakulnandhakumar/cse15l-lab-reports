@@ -1,2 +1,1 @@
-# Image of Screenshot
-![Image](Screenshot.png)
+# Lab Report 1 Week 2

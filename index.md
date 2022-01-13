@@ -1,8 +1,2 @@
-# Nakul Nandhakumar
-**Favorite Animal** - Tiger
-
-# Example Table
-| Car | Price |
-| --- | ----- |
-| Toyota | $46,000 |
-| Maserati | $354,000 |
+# Lab Reports
+[**Lab Report 1 (Week 2)**](https://nakulnandhakumar.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
