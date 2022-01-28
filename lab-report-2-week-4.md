@@ -30,7 +30,7 @@ In the original piece of code written by Professor Politz, the code would only w
 
 [**Link to Test File With Failure-Inducing Input**](https://github.com/nakulnandhakumar/markdown-parse/blob/main/test-file-2.md)
 
-[**MarkdownParse Version with Failing Code**](https://github.com/nakulnandhakumar/markdown-parse/commit/d7eb559117ae20d0b0970d5f56625c5da6bebc8b#diff-c703a0ec03474d601c6bf846740b293e0538bccf38d5f677a302457479e9c652L1-L43)
+[**MarkdownParse Version with Failing Code**](https://github.com/nakulnandhakumar/markdown-parse/commit/d96e64811435f3226dfbe5d16a165ac3a647a2be)
 <br><br>
 
 ### **Symptom:**
@@ -50,7 +50,7 @@ The goal of the code written by Professor Politz is to return all links but not 
 
 [**Link to Test File With Failure-Inducing Input**](https://github.com/nakulnandhakumar/markdown-parse/blob/main/test-file-3.md)
 
-[**MarkdownParse Version with Failing Code**](https://github.com/nakulnandhakumar/markdown-parse/commit/d7eb559117ae20d0b0970d5f56625c5da6bebc8b#diff-c703a0ec03474d601c6bf846740b293e0538bccf38d5f677a302457479e9c652L1-L43)
+[**MarkdownParse Version with Failing Code**](https://github.com/nakulnandhakumar/markdown-parse/commit/d96e64811435f3226dfbe5d16a165ac3a647a2be)
 <br><br>
 
 ### **Symptom:**
