@@ -1,27 +1,18 @@
-# Setup Github Access From ieng6
+# Streamlining ssh Configuration
 
 <br>
 
-## Public RSA Key
+## Copying Entire MarkdownParse Directory
 ---
-![Public RSA Key on Github](GithubPublicKey.png)
 
-![Public RSA Key on User ieng6 Account](UserPublicAndPrivateKeys.png)
-(`id_rsa_github.pub` is the file with the public key which is also stored in Github)
+<br> <br>
+
+## Run Tests For MarkdownParse in cse15l Account
+---
+
 <br><br>
 
-## Private RSA Key
----
-![Public RSA Key on User ieng6 Account](UserPublicAndPrivateKeys.png)
-(`id_rsa_github` is the file with the private key)
-<br><br>
-
-## Running Git Commands From ieng6 Terminal
+## Copy and Run Tests in One Line
 ---
 
 <br><br><br>
-
-## Link to Commit From Terminal Git Commit
----
-
-<br><br>
